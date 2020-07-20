@@ -27,6 +27,14 @@
         <xpath>/Defs/ThingDef[defName="Leather_Light"]/stuffProps/statFactors</xpath>
         <value>
             <Flammability>0.3</Flammability>
+            <Beauty>0.3</Beauty>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="Leather_Plain"]/stuffProps/commonality</xpath>
+        <value>
+            <commonality>0.075</commonality>
         </value>
     </Operation>
 
@@ -68,6 +76,7 @@
             <statFactors>
                 <Flammability>0.3</Flammability>
                 <MaxHitPoints>1.0</MaxHitPoints>
+                <Beauty>0.5</Beauty>
             </statFactors>
             <categories>
                 <li>Leathery</li>
