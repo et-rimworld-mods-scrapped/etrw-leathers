@@ -1,0 +1,4 @@
+- leather colors?
+    - adding as separate leathers or sub-defs will clog up UI again
+    - categories / filters might help
+    - but there's already other mods to add colors
