@@ -1,0 +1,4 @@
+# Jetbrains files
+.idea
+.idea*
+.idea/**
