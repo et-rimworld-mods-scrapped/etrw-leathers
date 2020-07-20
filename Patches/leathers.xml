@@ -23,7 +23,7 @@
             defName="Leather_Lizard" or
             defName="Leather_Elephant" or
             defName="Leather_Patch"
-            ]/stuffProps/commonality
+        ]/stuffProps/commonality
         </xpath>
         <value>
             <commonality>0.0</commonality>
@@ -45,7 +45,7 @@
             defName="Leather_Lizard" or
             defName="Leather_Elephant" or
             defName="Leather_Patch"
-            ]
+        ]
         </xpath>
         <value>
             <tradeability>None</tradeability>
@@ -67,7 +67,7 @@
             defName="Leather_Lizard" or
             defName="Leather_Elephant" or
             defName="Leather_Patch"
-            ]
+        ]
         </xpath>
         <value>
             <thingCategories/>
